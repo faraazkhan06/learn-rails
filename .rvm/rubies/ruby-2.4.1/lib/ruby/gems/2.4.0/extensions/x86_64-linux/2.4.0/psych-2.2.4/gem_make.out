@@ -1,0 +1,21 @@
+current directory: /home/faraz/.rvm/rubies/ruby-2.4.1/lib/ruby/gems/2.4.0/gems/psych-2.2.4/ext/psych
+/home/faraz/.rvm/rubies/ruby-2.4.1/bin/ruby -r ./siteconf20170620-13038-3xnyov.rb extconf.rb
+checking for yaml.h... yes
+checking for yaml_get_version() in -lyaml... yes
+creating Makefile
+
+current directory: /home/faraz/.rvm/rubies/ruby-2.4.1/lib/ruby/gems/2.4.0/gems/psych-2.2.4/ext/psych
+make "DESTDIR=" clean
+
+current directory: /home/faraz/.rvm/rubies/ruby-2.4.1/lib/ruby/gems/2.4.0/gems/psych-2.2.4/ext/psych
+make "DESTDIR="
+compiling psych.c
+compiling psych_emitter.c
+compiling psych_parser.c
+compiling psych_to_ruby.c
+compiling psych_yaml_tree.c
+linking shared-object psych.so
+
+current directory: /home/faraz/.rvm/rubies/ruby-2.4.1/lib/ruby/gems/2.4.0/gems/psych-2.2.4/ext/psych
+make "DESTDIR=" install
+/usr/bin/install -m 0755 psych.so ./.gem.20170620-13038-1m7g1n1

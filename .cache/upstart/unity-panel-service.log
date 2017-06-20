@@ -1,0 +1,8 @@
+
+(unity-panel-service:1403): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 22: Error getting properties for ID
+
+(unity-panel-service:1403): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+
+(unity-panel-service:1403): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+
+(unity-panel-service:1403): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed

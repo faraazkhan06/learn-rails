@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+
+if
+  [[ -s "/home/faraz/.rvm/gems/ruby-2.4.1@rails5.0/environment" ]]
+then
+  source "/home/faraz/.rvm/gems/ruby-2.4.1@rails5.0/environment"
+  exec thor "$@"
+else
+  echo "ERROR: Missing RVM environment file: '/home/faraz/.rvm/gems/ruby-2.4.1@rails5.0/environment'" >&2
+  exit 1
+fi

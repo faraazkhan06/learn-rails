@@ -1,0 +1,21 @@
+logrotate state -- version 2
+"/home/faraz/.cache/upstart/gnome-keyring-ssh.log" 2017-6-20-10:47:53
+"/home/faraz/.cache/upstart/hud.log" 2017-6-20-10:47:53
+"/home/faraz/.cache/upstart/gpg-agent.log" 2017-6-20-10:47:53
+"/home/faraz/.cache/upstart/indicator-bluetooth.log" 2017-6-16-10:24:29
+"/home/faraz/.cache/upstart/upstart-dbus-system-bridge.log" 2017-6-14-10:25:23
+"/home/faraz/.cache/upstart/unity7.log" 2017-6-20-10:47:53
+"/home/faraz/.cache/upstart/unity-panel-service.log" 2017-6-20-10:47:53
+"/home/faraz/.cache/upstart/unity-panel-service-lockscreen.log" 2017-6-19-10:20:5
+"/home/faraz/.cache/upstart/unity-settings-daemon.log" 2017-6-20-10:47:53
+"/home/faraz/.cache/upstart/upstart-event-bridge.log" 2017-6-19-13:43:53
+"/home/faraz/.cache/upstart/indicator-sound.log" 2017-6-20-10:47:53
+"/home/faraz/.cache/upstart/indicator-datetime.log" 2017-6-20-10:0:0
+"/home/faraz/.cache/upstart/update-notifier-release.log" 2017-6-20-10:47:53
+"/home/faraz/.cache/upstart/at-spi2-registryd.log" 2017-6-19-13:43:53
+"/home/faraz/.cache/upstart/bamfdaemon.log" 2017-6-19-13:43:53
+"/home/faraz/.cache/upstart/update-notifier-crash-_var_crash__usr_bin_compiz.1000.crash.log" 2017-6-19-13:43:53
+"/home/faraz/.cache/upstart/window-stack-bridge.log" 2017-6-20-10:47:53
+"/home/faraz/.cache/upstart/indicator-session.log" 2017-6-13-10:21:24
+"/home/faraz/.cache/upstart/dbus.log" 2017-6-20-10:47:53
+"/home/faraz/.cache/upstart/ssh-agent.log" 2017-6-20-10:47:53

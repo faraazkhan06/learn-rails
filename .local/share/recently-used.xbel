@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/faraz/Pictures/Screenshot%20from%202017-06-12%2019-20-22.png" added="2017-06-12T13:50:27Z" modified="2017-06-12T13:50:27Z" visited="2017-06-12T13:50:27Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2017-06-12T13:50:27Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/faraz/Downloads/google-chrome-42-0-2311-90-32-bit-multi-ubu.deb" added="2017-06-12T05:58:48Z" modified="2017-06-14T11:04:39Z" visited="2017-06-12T05:58:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-14T11:04:39Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_faraz0/node-v6.11.0-linux-x64.tar.xz" added="2017-06-12T06:14:06Z" modified="2017-06-12T06:14:06Z" visited="2017-06-12T06:14:06Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-12T06:14:06Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/faraz/Downloads/dbf959cb69da5615b3aa7812ff6e76495061bd4a7c8ed.zip" added="2017-06-14T11:00:43Z" modified="2017-06-14T11:01:37Z" visited="2017-06-14T11:00:44Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-14T11:00:43Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;file-roller %U&apos;" modified="2017-06-14T11:01:06Z" count="2"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-06-14T11:01:37Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/faraz/Downloads" added="2017-06-14T11:01:47Z" modified="2017-06-14T11:22:55Z" visited="2017-06-14T11:01:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2017-06-14T11:22:55Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/faraz/Downloads/styles.css" added="2017-06-14T11:04:48Z" modified="2017-06-14T11:14:03Z" visited="2017-06-14T11:04:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-14T11:14:03Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/faraz/Downloads/index.html" added="2017-06-14T11:04:53Z" modified="2017-06-14T11:14:06Z" visited="2017-06-14T11:04:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-14T11:14:06Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/faraz/Downloads/startbootstrap-grayscale-gh-pages.zip" added="2017-06-14T11:06:34Z" modified="2017-06-14T11:27:42Z" visited="2017-06-14T11:06:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-14T11:27:42Z" count="3"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-06-14T11:22:50Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/faraz/Downloads/images/bg_shadow.png" added="2017-06-14T11:14:56Z" modified="2017-06-14T11:14:56Z" visited="2017-06-14T11:14:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-14T11:14:56Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/faraz/Downloads/images/footer.jpg" added="2017-06-14T11:15:02Z" modified="2017-06-14T11:15:02Z" visited="2017-06-14T11:15:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-14T11:15:02Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/faraz/Downloads/images/header.jpg" added="2017-06-14T11:15:07Z" modified="2017-06-14T11:15:07Z" visited="2017-06-14T11:15:08Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-14T11:15:07Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/faraz/Downloads/images/img_link_01.png" added="2017-06-14T11:15:13Z" modified="2017-06-14T11:15:13Z" visited="2017-06-14T11:15:13Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-14T11:15:13Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/faraz/Downloads/images/img_link_02.png" added="2017-06-14T11:15:23Z" modified="2017-06-14T11:15:23Z" visited="2017-06-14T11:15:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-14T11:15:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/faraz/Downloads/images/img_link_03.png" added="2017-06-14T11:15:27Z" modified="2017-06-14T11:15:27Z" visited="2017-06-14T11:15:27Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-14T11:15:27Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/faraz/Downloads/images/img_link_04.png" added="2017-06-14T11:15:30Z" modified="2017-06-14T11:15:30Z" visited="2017-06-14T11:15:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-14T11:15:30Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/faraz/Downloads/images/img_link_05.png" added="2017-06-14T11:15:34Z" modified="2017-06-14T11:15:34Z" visited="2017-06-14T11:15:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-14T11:15:34Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/faraz/Downloads/images/ls.png" added="2017-06-14T11:15:37Z" modified="2017-06-14T11:15:37Z" visited="2017-06-14T11:15:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-14T11:15:37Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/faraz/Downloads/images/numbg.png" added="2017-06-14T11:15:39Z" modified="2017-06-14T11:15:39Z" visited="2017-06-14T11:15:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-14T11:15:39Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/faraz/Downloads/images/pic01.jpg" added="2017-06-14T11:15:43Z" modified="2017-06-14T11:15:43Z" visited="2017-06-14T11:15:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-14T11:15:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/faraz/Downloads/images/read.png" added="2017-06-14T11:15:46Z" modified="2017-06-14T11:15:46Z" visited="2017-06-14T11:15:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-14T11:15:46Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/faraz/Downloads/images/pic02.jpg" added="2017-06-14T11:15:50Z" modified="2017-06-14T11:15:50Z" visited="2017-06-14T11:15:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-14T11:15:50Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/faraz/Downloads/images/title_left.jpg" added="2017-06-14T11:15:54Z" modified="2017-06-14T11:15:54Z" visited="2017-06-14T11:15:55Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-14T11:15:54Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/faraz/Downloads/images/title_right.png" added="2017-06-14T11:15:58Z" modified="2017-06-14T11:15:58Z" visited="2017-06-14T11:15:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-14T11:15:58Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/faraz/Downloads/images/title_right1.png" added="2017-06-14T11:16:02Z" modified="2017-06-14T11:16:02Z" visited="2017-06-14T11:16:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-14T11:16:02Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/faraz/Downloads/images/ul_bg.jpg" added="2017-06-14T11:16:06Z" modified="2017-06-14T11:16:06Z" visited="2017-06-14T11:16:06Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-14T11:16:06Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/faraz/Downloads/startbootstrap-agency-gh-pages.zip" added="2017-06-14T11:20:32Z" modified="2017-06-14T11:22:27Z" visited="2017-06-14T11:20:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-14T11:20:32Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-06-14T11:22:27Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_faraz0/csc-offered-candidates-noida.pdf" added="2017-06-19T11:51:57Z" modified="2017-06-19T11:51:57Z" visited="2017-06-19T11:51:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2017-06-19T11:51:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

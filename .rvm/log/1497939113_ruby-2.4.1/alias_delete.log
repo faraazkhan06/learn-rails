@@ -1,0 +1,82 @@
+[2017-06-20 11:41:53] alias_delete_execute
+alias_delete_execute () 
+{ 
+    for _path in "$rvm_rubies_path" "$rvm_environments_path" "$rvm_wrappers_path";
+    do
+        if [[ -L "$_path/$1" ]]; then
+            \command \rm -fv "$_path/$1" || return $?;
+        fi;
+    done;
+    __rvm_db_ "$rvm_path/config/alias" "$1" "delete";
+    alias_after_delete_default "$1" || return $?
+}
+current path: /home/faraz
+GEM_HOME=/home/faraz/.rvm/gems/ruby-2.4.1
+PATH=/home/faraz/.rvm/gems/ruby-2.4.1/bin:/home/faraz/.rvm/gems/ruby-2.4.1@global/bin:/home/faraz/.rvm/rubies/ruby-2.4.1/bin:/home/faraz/.rvm/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+GEM_PATH=/home/faraz/.rvm/gems/ruby-2.4.1:/home/faraz/.rvm/gems/ruby-2.4.1@global
+command(2): alias_delete_execute default
++ for _path in '"$rvm_rubies_path"' '"$rvm_environments_path"' '"$rvm_wrappers_path"'
++ [[ -L /home/faraz/.rvm/rubies/default ]]
++ for _path in '"$rvm_rubies_path"' '"$rvm_environments_path"' '"$rvm_wrappers_path"'
++ [[ -L /home/faraz/.rvm/environments/default ]]
++ for _path in '"$rvm_rubies_path"' '"$rvm_environments_path"' '"$rvm_wrappers_path"'
++ [[ -L /home/faraz/.rvm/wrappers/default ]]
++ __rvm_db_ /home/faraz/.rvm/config/alias default delete
++ typeset __db __key __value
++ __db=/home/faraz/.rvm/config/alias
++ __key=default
++ shift 2
++ __value=delete
++ case "${__value}" in
++ __rvm_db_remove /home/faraz/.rvm/config/alias default
++ [[ -f /home/faraz/.rvm/config/alias ]]
++ __rvm_sed -e '\#^default=# d' -e '/^$/d' /home/faraz/.rvm/config/alias
++ sed -e '\#^default=# d' -e '/^$/d' /home/faraz/.rvm/config/alias
++ command mv -f /home/faraz/.rvm/config/alias.new /home/faraz/.rvm/config/alias
++ mv -f /home/faraz/.rvm/config/alias.new /home/faraz/.rvm/config/alias
++ alias_after_delete_default default
++ [[ default == \d\e\f\a\u\l\t ]]
++ for _path in '"$rvm_bin_path"/default_*'
++ [[ -f /home/faraz/.rvm/bin/default_* ]]
++ _path='/home/faraz/.rvm/bin/default_*'
++ [[ -f /home/faraz/.rvm/bin/default_* ]]
++ for _path in '"$rvm_path"/wrappers/default/*' gem irb erb ri rdoc testrb rake ruby bundle
++ _path='*'
++ command rm -fv '/home/faraz/.rvm/bin/*'
++ rm -fv '/home/faraz/.rvm/bin/*'
++ for _path in '"$rvm_path"/wrappers/default/*' gem irb erb ri rdoc testrb rake ruby bundle
++ _path=gem
++ command rm -fv /home/faraz/.rvm/bin/gem
++ rm -fv /home/faraz/.rvm/bin/gem
++ for _path in '"$rvm_path"/wrappers/default/*' gem irb erb ri rdoc testrb rake ruby bundle
++ _path=irb
++ command rm -fv /home/faraz/.rvm/bin/irb
++ rm -fv /home/faraz/.rvm/bin/irb
++ for _path in '"$rvm_path"/wrappers/default/*' gem irb erb ri rdoc testrb rake ruby bundle
++ _path=erb
++ command rm -fv /home/faraz/.rvm/bin/erb
++ rm -fv /home/faraz/.rvm/bin/erb
++ for _path in '"$rvm_path"/wrappers/default/*' gem irb erb ri rdoc testrb rake ruby bundle
++ _path=ri
++ command rm -fv /home/faraz/.rvm/bin/ri
++ rm -fv /home/faraz/.rvm/bin/ri
++ for _path in '"$rvm_path"/wrappers/default/*' gem irb erb ri rdoc testrb rake ruby bundle
++ _path=rdoc
++ command rm -fv /home/faraz/.rvm/bin/rdoc
++ rm -fv /home/faraz/.rvm/bin/rdoc
++ for _path in '"$rvm_path"/wrappers/default/*' gem irb erb ri rdoc testrb rake ruby bundle
++ _path=testrb
++ command rm -fv /home/faraz/.rvm/bin/testrb
++ rm -fv /home/faraz/.rvm/bin/testrb
++ for _path in '"$rvm_path"/wrappers/default/*' gem irb erb ri rdoc testrb rake ruby bundle
++ _path=rake
++ command rm -fv /home/faraz/.rvm/bin/rake
++ rm -fv /home/faraz/.rvm/bin/rake
++ for _path in '"$rvm_path"/wrappers/default/*' gem irb erb ri rdoc testrb rake ruby bundle
++ _path=ruby
++ command rm -fv /home/faraz/.rvm/bin/ruby
++ rm -fv /home/faraz/.rvm/bin/ruby
++ for _path in '"$rvm_path"/wrappers/default/*' gem irb erb ri rdoc testrb rake ruby bundle
++ _path=bundle
++ command rm -fv /home/faraz/.rvm/bin/bundle
++ rm -fv /home/faraz/.rvm/bin/bundle

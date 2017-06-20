@@ -1,0 +1,15 @@
+current directory: /home/faraz/.rvm/gems/ruby-2.4.1@learn-rails/gems/websocket-driver-0.6.5/ext/websocket-driver
+/home/faraz/.rvm/rubies/ruby-2.4.1/bin/ruby -r ./siteconf20170620-27243-r8ktwq.rb extconf.rb
+creating Makefile
+
+current directory: /home/faraz/.rvm/gems/ruby-2.4.1@learn-rails/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /home/faraz/.rvm/gems/ruby-2.4.1@learn-rails/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/faraz/.rvm/gems/ruby-2.4.1@learn-rails/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -m 0755 websocket_mask.so ./.gem.20170620-27243-qdlupr
